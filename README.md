@@ -1,4 +1,4 @@
-# GitHub Action: Run hadolint with reviewdog 🐶
+# GitHub Action: Run hadolint with reviewdogffff 🐶
 
 [![](https://img.shields.io/github/license/reviewdog/action-hadolint)](./LICENSE)
 [![depup](https://github.com/reviewdog/action-hadolint/workflows/depup/badge.svg)](https://github.com/reviewdog/action-hadolint/actions?query=workflow%3Adepup)
