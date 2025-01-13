@@ -27,4 +27,4 @@ jobs:
         with:
           filter_mode: diff_context
           exclude: Dockerfile.dockerignore
-          fail_level: warning
+          fail_level: error
